@@ -22,4 +22,4 @@ results[$r2]="$r2"
 results[$r3]="$r3"
 results[$r4]="$r4"
 
-echo "All results" ${!results[@]}
+echo ${results[@]}
